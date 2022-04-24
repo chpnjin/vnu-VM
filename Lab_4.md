@@ -40,3 +40,32 @@
 <H4>chmod: 更改檔案權限</H4>
 
 ![圖片](https://user-images.githubusercontent.com/16370565/163699496-f1035b35-24e0-4027-beaf-6eb00b67d3ed.png)
+
+
+<H1>Lab 4-2 BASH Shell介紹與實戰 (12 commands)</H1>
+
+<H4>1. 創建並執行第一個 BASH 程序</H4>
+
+![圖片](https://user-images.githubusercontent.com/16370565/164955280-0098816b-ef44-42cb-9949-ebd4e4070419.png)
+
+<H4>2. 來玩個簡單的加減乘除</H4>
+
+![圖片](https://user-images.githubusercontent.com/16370565/164955735-806a0dbb-2111-473b-a5de-c7c51837f9ad.png)
+
+![圖片](https://user-images.githubusercontent.com/16370565/164955719-5ca89b0b-1cdb-4acb-8c27-5a3392b377d8.png)
+
+<H4>3. 使用While Loop</H4>
+
+![圖片](https://user-images.githubusercontent.com/16370565/164957915-e578c3d4-6d04-458f-ae58-aaa2427005cb.png)
+  
+<H4>4. 使用For Loop</H4>
+
+![圖片](https://user-images.githubusercontent.com/16370565/164958157-70ac4dc5-9a66-4723-87e1-a909ab508351.png)
+
+<H4>5. 如何讓使用者輸入?</H4>
+
+![圖片](https://user-images.githubusercontent.com/16370565/164959078-716e3f26-93c3-4e8b-870f-005abafdcac4.png)
+
+<H4>6. 如何自動產生9x9表, 並自動將結果輸出到table99.txt中?</H4>
+
+![圖片](https://user-images.githubusercontent.com/16370565/164959861-323f0850-7cc4-4274-8bb0-241b9f6faf49.png)

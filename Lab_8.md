@@ -7,3 +7,7 @@
 <H3>Lab 8-2 英特爾OpenVINO安裝與初體驗</H3>
 
 ![圖片](https://user-images.githubusercontent.com/16370565/177022885-cf105b76-33d8-411e-a02f-50b19e14aaf6.png)
+
+<H3>Lab 8-3 OpenVINO: 深度估計? 自動去換背?</H3>
+
+![圖片](https://user-images.githubusercontent.com/16370565/177023353-37bba677-f0a6-4772-a389-edccdb776e64.png)

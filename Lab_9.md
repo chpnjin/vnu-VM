@@ -11,3 +11,7 @@
 <H2>Lab 9-3 Image 操作</H2>
 
 ![圖片](https://user-images.githubusercontent.com/16370565/178129554-ae47a84c-9885-4564-8cfe-97fc57107852.png)
+
+<H2>Lab 9-4 進入Docker Image的世界: Ubuntu</H2>
+
+![圖片](https://user-images.githubusercontent.com/16370565/178130853-a358bc6c-41c7-4f86-94e5-6e83bdfada0b.png)
